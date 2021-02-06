@@ -1,0 +1,8 @@
+.cursor-pointer:hover {
+  cursor: pointer;
+}
+
+.style-color:hover {
+  background-color: red;
+  cursor: pointer;
+}
